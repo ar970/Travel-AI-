@@ -1,0 +1,6 @@
+{
+  "name": "Kinfolk",
+  "description": "A multi-generational travel companion app designed for group compromise and energy budget tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
